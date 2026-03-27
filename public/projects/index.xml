@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 24 Mar 2026 21:01:36 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Balance</title>
-      <link>http://localhost:1313/projects/balance/</link>
+      <title>DC Actuator</title>
+      <link>http://localhost:1313/projects/dc_actuator/</link>
       <pubDate>Tue, 24 Mar 2026 21:01:36 -0400</pubDate>
-      <guid>http://localhost:1313/projects/balance/</guid>
+      <guid>http://localhost:1313/projects/dc_actuator/</guid>
       <description></description>
     </item>
   </channel>
