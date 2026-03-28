@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Projects on My New Hugo Project</title>
+    <title>Projects on Portfolio</title>
     <link>http://localhost:1313/projects/</link>
-    <description>Recent content in Projects on My New Hugo Project</description>
+    <description>Recent content in Projects on Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2026 21:01:36 -0400</lastBuildDate>
@@ -13,7 +13,58 @@
       <link>http://localhost:1313/projects/dc_actuator/</link>
       <pubDate>Tue, 24 Mar 2026 21:01:36 -0400</pubDate>
       <guid>http://localhost:1313/projects/dc_actuator/</guid>
-      <description></description>
+      <description>&lt;p&gt;A compact DC motor assembly with an integrated magnetic encoder and standardized mounting interface, designed for use in closed-loop position and velocity control applications.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The actuator has 6 pins total: 2 pins for the motor control, 2 pins for encoder power, and 2 pins for encoder I2C communication. This actuator simplifies the motor control by housing the encoder internally and providing ample mounting interfaces.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;specifications&#34;&gt;Specifications&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Parameter&lt;/th&gt;
+          &lt;th&gt;Value&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Motor&lt;/td&gt;
+          &lt;td&gt;TT Motor&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Encoder IC&lt;/td&gt;
+          &lt;td&gt;AS5600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Encoder Resolution&lt;/td&gt;
+          &lt;td&gt;12-bit (4096 CPR)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Interface&lt;/td&gt;
+          &lt;td&gt;I2C (400kHz fast mode)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Magnet&lt;/td&gt;
+          &lt;td&gt;6mm diametric, axial field&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Supply voltage&lt;/td&gt;
+          &lt;td&gt;6-12V motor / 3.3V encoder&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mounting pattern&lt;/td&gt;
+          &lt;td&gt;8x M2.5, xxmm bolt circle&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Output shaft&lt;/td&gt;
+          &lt;td&gt;[diameter, length, flat]&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;mechanical-design&#34;&gt;Mechanical Design&lt;/h2&gt;
+&lt;h3 id=&#34;encoder-mounting-approach&#34;&gt;Encoder Mounting Approach&lt;/h3&gt;
+&lt;h3 id=&#34;concentricity-and-axial-gap&#34;&gt;Concentricity and Axial Gap&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>

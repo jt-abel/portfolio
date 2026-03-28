@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jt-abel.github.io/'
 locale = 'en-us'
 title = 'Portfolio'
 theme = "PaperMod"
+[params]
+  [params.contact]
+    email = 'jta6534@gmail.com'
